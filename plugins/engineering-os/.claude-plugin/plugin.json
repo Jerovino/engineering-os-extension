@@ -1,0 +1,13 @@
+{
+  "name": "engineering-os",
+  "version": "1.0.0",
+  "description": "Personal operating system for engineering leaders",
+  "author": {
+    "name": "adolfo-nunes"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(for:*)"
+    ]
+  }
+}

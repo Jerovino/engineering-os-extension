@@ -1,0 +1,17 @@
+{
+  "name": "engineering-os-extensions",
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "adolfo-nunes"
+  },
+  "plugins": [
+    {
+      "name": "engineering-os",
+      "version": "1.0.0",
+      "source": "./plugins/engineering-os",
+      "description": "Personal operating system for engineering leaders"
+    }
+  ]
+}
