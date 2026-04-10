@@ -7,7 +7,7 @@ minutes, and get 16 skills for daily operations, reviews, writing, meeting prep,
 
 ```bash
 # Add the marketplace
-/plugin marketplace add https://github.com/adolfo-nunes/engineering-os-extension
+/plugin marketplace add https://github.com/Jerovino/engineering-os-extension
 
 # Install the plugin
 /plugin install engineering-os
